@@ -1,5 +1,8 @@
 # MLLab
-Тута лабы по Машинному обучению 
+# Машинное обучение(лабораторная работа №7)
+### Тема:логические алгоритмы. Бустинг.
+### Задание: применить самые сильные на сегодняшний день композиции логических алгоритмов.
+
 ![](https://github.com/dwragon/MLLab/blob/master/lab7/ss1.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab7/ss2.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab7/ss3.png)
